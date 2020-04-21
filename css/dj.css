@@ -1,7 +1,33 @@
+
+.fa-music {
+
+    color: #43467f;
+}
 .masthead .masthead-avatar {
     width: inherit;
 }
 
 .bg-primary {
     background-color: #dfcbb3 !important;
+}
+
+.masthead {
+    padding-top: calc(0rem + 74px);
+    padding-bottom: 4rem;
+}
+
+.mb-5, .my-5 {
+    margin-bottom: 0.3rem !important;
+}
+
+.bg-secondary {
+    background-color: #43467f !important;
+}
+
+.masthead .masthead-subheading {
+    color:#43467f;
+}
+
+.divider-custom.divider-light .divider-custom-line {
+    background-color: #43467f;
 }
