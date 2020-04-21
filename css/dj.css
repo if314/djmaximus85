@@ -52,3 +52,9 @@ h2 {
 .divider-custom.divider-light .divider-custom-line {
     background-color: #43467f;
 }
+
+.btn-primary {
+    color: #fff;
+    background-color: #e23c28;
+    border-color: #ce7c2a;
+}
