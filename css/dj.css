@@ -53,11 +53,6 @@ h2 {
     background-color: #43467f;
 }
 
-.btn-primary {
-    color: #fff;
-    background-color: #e23c28;
-    border-color: #ce7c2a;
-}
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
@@ -72,4 +67,15 @@ h2 {
 .btn-outline-light {
     color: #ce7c2a;
     border-color: #ce7c2a;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #ce7c2a;
+    border-color:#b76c29;
+}
+.btn-primary:hover {
+    background-color: #e23c28;
+    border-color: #c93328;
 }
